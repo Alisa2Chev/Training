@@ -7,7 +7,7 @@ const Profile1 = () => {
       <div>
         <img
           className={classes.imgTown}
-          src="https://www.deutschland.de/sites/default/files/styles/crop_story_content/public/media/image/living-in-germany-city-frankfurt-skyline.jpg?h=11bad672&itok=ceoK8ZeZ"
+          src="https://jdmhobby.ru/_sh/30/3040.jpg"
           alt="Town"
         />
       </div>

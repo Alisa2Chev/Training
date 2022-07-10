@@ -7,13 +7,14 @@ const MyPosts = () => {
       My posts
       <div>
         <textarea></textarea>
+        <button>Отправить</button>
       </div>
       <div className={classes.posts}>
-        <MyPost />
-        <MyPost />
-        <MyPost />
-        <MyPost />
-        <MyPost />
+        <MyPost message="Hi, how are u ?" />
+        <MyPost message="It's my first post" />
+        <MyPost message="It's my second post" />
+        <MyPost message="GayGayGay" />
+        <MyPost message="I lOve React ;3" />
       </div>
     </div>
   );
