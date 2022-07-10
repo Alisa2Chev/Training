@@ -5,3 +5,7 @@
 .item{
     color:rgb(255, 255, 255);
 }
+span{
+    margin-left: 15px;
+    background-color: rgb(150, 150, 187);
+}
